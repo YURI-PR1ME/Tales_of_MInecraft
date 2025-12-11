@@ -1,4 +1,4 @@
-PWD /home/yuri/javascripts/tales_of_gods
+PWD /home/yuri/talesofMInecraft/mainline/tales_of_gods
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
 INPUT tale.tex

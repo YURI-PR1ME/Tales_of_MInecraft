@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2026/dev/Arch Linux) (preloaded format=xelatex 2025.11.25)  11 DEC 2025 15:20
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2026/dev/Arch Linux) (preloaded format=xelatex 2025.11.25)  11 DEC 2025 16:33
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -485,9 +485,7 @@ Missing character: There is no 祇 (U+7947) in font [FandolSong-Regular.otf]/OT:
 
 
 
-[2
-
-] (./tale.aux)
+[2] (./tale.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/08/05>
@@ -506,4 +504,4 @@ Here is how much of TeX's memory you used:
  1348 hyphenation exceptions out of 8191
  74i,6n,100p,793b,334s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on tale.xdv (2 pages, 82868 bytes).
+Output written on tale.xdv (2 pages, 83452 bytes).
