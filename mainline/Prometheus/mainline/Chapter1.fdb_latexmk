@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1767178883.03906 "Chapter1.xdv" "Chapter1.pdf" "Chapter1" 1767178883.23723 0
-  "Chapter1.xdv" 1767178883.00637 51832 9198dd235a6b8faeb0ce0af5b49647b8 "xelatex"
+["xdvipdfmx"] 1767355170.63859 "Chapter1.xdv" "Chapter1.pdf" "Chapter1" 1767355170.84661 0
+  "Chapter1.xdv" 1767355170.60714 93952 4b7494a503faf594c5d89698fca7a6a1 "xelatex"
   (generated)
   "Chapter1.pdf"
   (rewritten before read)
-["xelatex"] 1767178882.37505 "Chapter1.tex" "Chapter1.xdv" "Chapter1" 1767178883.23654 0
+["xelatex"] 1767355169.94477 "Chapter1.tex" "Chapter1.xdv" "Chapter1" 1767355170.84587 0
   "/home/yuri/.texlive/texmf-var/web2c/xetex/xelatex.fmt" 1761490624 4491643 88fc39550c2a74f96426645da668d8fb ""
   "/home/yuri/texmf/tex/latex/ieeetran/IEEEtran.cls" 1763569209.40495 281957 5b2e4fa15b0f7eabb840ebf67df4c0f7 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1755987285 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
@@ -45,8 +45,8 @@
   "/usr/share/texmf-dist/tex/xelatex/xecjk/xeCJK.sty" 1755987285 183137 ed372550124703b2b73cbcc0b47cb20f ""
   "/usr/share/texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty" 1755987285 39577 b470f8a1dbecc9c45c9bf05ca7db9188 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1755987285 42087 b0f9697c952c8f5a8eede4134282cb0d ""
-  "Chapter1.aux" 1767178883.00521 380 ac536df88ea9378c0d0d999743c31b4d "xelatex"
-  "Chapter1.tex" 1767178882.0065 8890 e74c98747fe52f512634387695062beb ""
+  "Chapter1.aux" 1767355170.60533 618 e9783304b53ba333409e34dc88974e7c "xelatex"
+  "Chapter1.tex" 1767355168.67824 15679 57eba4706ada1c7d3eedda78d5f6bfde ""
   (generated)
   "Chapter1.aux"
   "Chapter1.log"
