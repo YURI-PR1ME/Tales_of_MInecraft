@@ -1,10 +1,10 @@
-PWD /home/yuri/tales_of_minecraft/mainline/Prometheus/mainline
+PWD /home/yuri/MC_tales/mainline/Prometheus/mainline
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
-INPUT /home/yuri/.texlive/texmf-var/web2c/xetex/xelatex.fmt
+INPUT /var/lib/texmf/web2c/xetex/xelatex.fmt
 INPUT Chapter1.tex
 OUTPUT Chapter1.log
-INPUT /home/yuri/texmf/tex/latex/ieeetran/IEEEtran.cls
-INPUT /home/yuri/texmf/tex/latex/ieeetran/IEEEtran.cls
+INPUT /usr/share/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
+INPUT /usr/share/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
 INPUT /usr/share/texmf-dist/tex/latex/cite/cite.sty
 INPUT /usr/share/texmf-dist/tex/latex/cite/cite.sty
 INPUT /usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
